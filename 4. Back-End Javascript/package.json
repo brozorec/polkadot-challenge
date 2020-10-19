@@ -1,0 +1,10 @@
+{
+  "name": "polkadot-back-end-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Boyan Barakov",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^2.3.1"
+  }
+}
