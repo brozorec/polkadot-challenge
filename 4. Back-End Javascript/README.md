@@ -1,10 +1,10 @@
-### Install dependencies:
+A command line utility to display information about the latest block on Polkadot
+
+### Usage:
+Install dependencies:
 ```
 yarn
 ```
-
-### Usage:
-
 Info about latest block:
 ```
 node index
