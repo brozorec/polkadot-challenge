@@ -1,0 +1,11 @@
+{
+  "CUSTOM_TYPES": {
+    "Address": "AccountId",
+    "LookupSource": "AccountId",
+    "Book": {
+      "BookAuthor": "Vec<u8>",
+      "BookTitle": "Vec<u8>"
+    }
+  },
+  "PROVIDER_SOCKET": "ws://127.0.0.1:9944"
+}
