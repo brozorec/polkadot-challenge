@@ -1,0 +1,9 @@
+{
+  "name": "gen-multisig-script",
+  "version": "1.0.0",
+  "main": "y",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^2.5.1"
+  }
+}
