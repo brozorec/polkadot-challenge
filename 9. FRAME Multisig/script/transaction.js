@@ -71,7 +71,7 @@ if (args.length == 0) {
   main().finally(() => process.exit());
 }
 else if ((args.length == 2 && args[0] != '--txType') || (args.length == 4 && args[2] != '--multisigAddr')) {
-  console.error("ERROR!!! \nUsage: \nnode index --txType ['initial|final'] [--multisigAddr [ADDRESS]]")
+  console.error("ERROR!!! \nUsage: \nnode transaction --txType ['initial|final'] [--multisigAddr [ADDRESS]]")
 }
 else {
   main(args[1], args[3]);
