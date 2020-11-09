@@ -2,7 +2,7 @@
 
 ## Local Kusama node
 
-![Run Sidecar](https://github.com/brozorec/polkadot-challenge/blob/master/10. Read an account's pending payouts/kusama-local.png)
+![Run Sidecar](https://github.com/brozorec/polkadot-challenge/blob/master/10.%20Read%20an%20account's%20pending%20payouts/kusama-local.png)
 
 ## Sidecar
 
